@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Roboto:wght@300&display=swap');
+
+// @font-face {
+//   font-family: 'Roboto', sans-serif;
+// }
+
+$font-principal: 'Roboto', sans-serif;
+$rose: #F3A1A0;
+
+body {
+  margin: 0;
+  font-family: $font-principal;
+  background-color: #F7F5F7;
+}

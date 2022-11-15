@@ -1,0 +1,23 @@
+.app {
+
+  .header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  h2 {
+    color: $rose;
+  }
+
+  input {
+    border-radius: 5px;
+    width: 250px;
+    text-align: center;
+  }
+  
+  .meal {
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
